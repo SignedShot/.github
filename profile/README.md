@@ -1,4 +1,8 @@
-# SignedShot
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SignedShot/.github/main/profile/signedshot-logo-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SignedShot/.github/main/profile/signedshot-logo.svg">
+  <img alt="SignedShot" src="https://raw.githubusercontent.com/SignedShot/.github/main/profile/signedshot-logo.svg" height="60">
+</picture>
 
 **Signed at capture. Verified anywhere.**
 
